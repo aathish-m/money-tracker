@@ -32,7 +32,7 @@ class InitialSetup extends React.Component {
         )}
         <Header as="h2">Currencies</Header>
         <p>
-          Select your base currency — the currency which will be used by
+          Select your base currency — the currency which will be used 
           default.
           <br />
           You can also select any number of additional currencies, if you use
